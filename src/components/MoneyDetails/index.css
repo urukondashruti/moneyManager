@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.list1 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 140px;
+  width: 800px;
+  padding: 5px;
+}
+
+.div {
+  margin-left: 10px;
+}
+
+.size {
+  height: 50px;
+  width: 50px;
+}
+
+.green {
+  background-color: #ecfccb;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #84cc16;
+  border-radius: 10px;
+}
+
+.blue {
+  background-color: #cffafe;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #06b6d4;
+  border-radius: 10px;
+}
+
+.purple {
+  background-color: #ede9fe;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #06b6d4;
+  border-radius: 10px;
+}
+
+.head {
+  font-size: 18px;
+}

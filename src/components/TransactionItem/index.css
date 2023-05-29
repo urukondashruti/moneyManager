@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list4 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  width: 400px;
+}
+.para2 {
+  margin: 20px;
+}
+
+.size2 {
+  height: 30px;
+  width: 30px;
+}
+
+.button1 {
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+}
